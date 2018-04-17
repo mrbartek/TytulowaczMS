@@ -22,6 +22,7 @@ public class Interfejs extends javax.swing.JFrame {
      */
     public Interfejs() {
         initComponents();
+        
     }
 
     /**
